@@ -1,0 +1,6 @@
+[submodule "qmk/teensy_loader_cli"]
+	path = qmk/teensy_loader_cli
+	url = https://github.com/PaulStoffregen/teensy_loader_cli
+[submodule "qmk/qmk_firmware"]
+	path = qmk/qmk_firmware
+	url = https://github.com/cadusk/qmk_firmware
