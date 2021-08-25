@@ -48,7 +48,7 @@ This is how you create a new python virtual environment for working with QMK.
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install --upgrade pip
+pip install --upgrade pip wheel
 pip install qmk
 ```
 
