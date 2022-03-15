@@ -70,6 +70,9 @@ practicing touch typing or even if you just want to show it off on the internet.
 The `keyboard-layout.json` file is the metadata that can be uploaded to the
 website to generate a representation of the keyboard.
 
+This is how it looks like right now
+![My awesome keyboard](./keyboard-layout.png "My awesome keyboard")
+
 ### Kinesis Advantage 2
 
 Other users' customizations to original Kinesis layouts for reference:
